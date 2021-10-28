@@ -13,7 +13,7 @@ contract Functions {
 }
 ```
 
-## Private and public functions
+## Functions types
 
 **Public :** _Can be accessed from any contract or outside e.g web3.0 app_
 
@@ -50,7 +50,7 @@ contract Functions {
 }
 ```
 
-# Function Scopes
+# Function Modifiers
 
 Other than function types we can set something called "modifier" which basically modifys the behaviour of a function, and its declaration is pretty similar as we define the type
 
